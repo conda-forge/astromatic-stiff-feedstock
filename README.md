@@ -1,11 +1,11 @@
-About astromatic-stiff
-======================
+About astromatic-stiff-feedstock
+================================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/astromatic-stiff-feedstock/blob/main/LICENSE.txt)
 
 Home: https://www.astromatic.net/software/stiff
 
 Package license: GPL-3.0
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/astromatic-stiff-feedstock/blob/main/LICENSE.txt)
 
 Summary: STIFF is a program that converts scientific FITS images to
 the more popular TIFF format for illustration purposes

@@ -1,5 +1,5 @@
 #!/bin/bash
 
-./configure --prefix=${PREFIX}
+./configure --prefix=${PREFIX} CFLAGS=-fcommon
 make
 make install
